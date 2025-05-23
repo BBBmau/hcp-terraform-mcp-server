@@ -10,7 +10,7 @@ import (
 	stdlog "log"
 	"net/http"
 	"os"
-	"terraform-mcp-server/pkg/hashicorp/tfregistry"
+	"github.com/hashicorp/terraform-mcp-server/pkg/hashicorp/tfregistry"
 
 	"github.com/mark3labs/mcp-go/server"
 	log "github.com/sirupsen/logrus"

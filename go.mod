@@ -1,4 +1,4 @@
-module terraform-mcp-server
+module github.com/hashicorp/terraform-mcp-server
 
 go 1.24.2
 

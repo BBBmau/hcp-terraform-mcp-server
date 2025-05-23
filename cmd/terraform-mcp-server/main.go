@@ -11,7 +11,7 @@ import (
 	"os/signal"
 	"syscall"
 
-	"terraform-mcp-server/version"
+	"github.com/hashicorp/terraform-mcp-server/version"
 
 	"github.com/mark3labs/mcp-go/server"
 	log "github.com/sirupsen/logrus"
